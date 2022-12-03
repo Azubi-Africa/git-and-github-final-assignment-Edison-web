@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 |Python-dictionary  |This project is aimed as finding average of the 'total prices' of the products, find a '5 cedis' reduction in all prices, generate the 'total revenue' of the original prices and identify products with 'price below 30 cedis'.               | https://github.com/Edison-web/python-dictionary       |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 

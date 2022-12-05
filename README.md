@@ -22,7 +22,7 @@ The below table must contain the details of the repositories you will create, fi
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |Python-dictionary  |This project is aimed as finding average of the 'total prices' of the products, find a '5 cedis' reduction in all prices, generate the 'total revenue' of the original prices and identify products with 'price below 30 cedis'.               | https://github.com/Edison-web/python-dictionary       |
 | 2 |production-planner | This project is done purposely to help estimate or plan how much production is needed each month using the zero-level-stock strategy. | https://github.com/Edison-web/production-planner  |
-| 3 |  -             |  -             | https://       |
+| 3 |pandas-sales |This project is aimed at using pandas to to calculate revenues and discount on sales | https://github.com/Edison-web/pandas-sales|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
